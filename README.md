@@ -1,25 +1,27 @@
-# THE FIELD | Part 1 of the HTML-CSS course
+# THE FIELD | Part 1 of the HTML-CSS course | 00 Markdown to HTML + 01 CSS intro
 
-## 00 Markdown to HTML
+* Mode : solo work 
+* Type of challenge : learning
+* Duration : 60min + 60min
+* [GitHub Page](https://eliseprts.github.io/markdown-warmup-html/)
 
 - Convert [this Markdown](https://github.com/eliseprts/challenge-markdown#readme) into HTML
 - Solo work
 
-### Learning objectives
+## Learning objectives
 
-At the end of this challenge, should be able to:
+### 00 Markdown to HTML
+* Use basic HTML tags
+* Convert MarkDown to HTML
 
-- use basic HTML tags
-- convert MarkDown to HTML
+### 01 CSS intro
+* Use basic CSS rules
+* Stylize a HTML page with some CSS
 
-## 01 CSS intro
+## Missions
 
-* Add some CSS swag to the page
-* Solo work
+### 00 Markdown to HTML
+Convert [this Markdown](https://github.com/eliseprts/challenge-markdown#readme) into HTML
 
-### Learning objectives
-
-At the end of this challenge, should be able to:
-
-* use basic CSS rules
-* stylize a HTML page with some CSS
+### 01 CSS intro
+Add some CSS swag to the page
