@@ -5,9 +5,6 @@
 * Duration : 60min + 60min
 * [GitHub Page](https://eliseprts.github.io/markdown-warmup-html/)
 
-- Convert [this Markdown](https://github.com/eliseprts/challenge-markdown#readme) into HTML
-- Solo work
-
 ## Learning objectives
 
 ### 00 Markdown to HTML
